@@ -1,19 +1,19 @@
-CONTINENTE	ANO	NIVEL DE DESMATAMENTO		
-Asia	1990-2000	0.2		
-Asia	2000-2010	2.4		
-Asia	2010-2020	1.2		
-Oceania	1990-2000	-0.2		
-Oceania	2000-2010	-0.2		
-Oceania	2010-2020	0.4		
-Europa	1990-2000	0.8		
-Europa	2000-2010	1.2		
-Europa	2010-2020	0.3		
-America do Norte e Central	1990-2000	-0.3		
-America do Norte e Central	2000-2010	0.2 		
-America do Norte e Central	2010-2020	-0.1		
-America do Sul	1990-2000	-5.1		
-America do Sul	2000-2010	-5.2		
-America do Sul	2010-2020	-2.6		
-Africa	1990-2000	-3.3		
-Africa	2000-2010	-3.4		
-Africa	2010-2020	-3.9		
+CONTINENTE	ANO	NIVEL DE DESMATAMENTO	
+Asia	1990-2000	0.2	
+Asia	2000-2010	2.4	
+Asia	2010-2020	1.2	
+Oceania	1990-2000	-0.2	
+Oceania	2000-2010	-0.2	
+Oceania	2010-2020	0.4	
+Europa	1990-2000	0.8	
+Europa	2000-2010	1.2	
+Europa	2010-2020	0.3	
+America do Norte e Central	1990-2000	-0.3	
+America do Norte e Central	2000-2010	0.2 	
+America do Norte e Central	2010-2020	-0.1	
+America do Sul	1990-2000	-5.1	
+America do Sul	2000-2010	-5.2	
+America do Sul	2010-2020	-2.6	
+Africa	1990-2000	-3.3	
+Africa	2000-2010	-3.4	
+Africa	2010-2020	-3.9	
