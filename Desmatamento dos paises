@@ -1,25 +1,25 @@
-Paises,Ano,Desmatamento
-Africa,1990,4096000
-Africa,2000,4314000
-Africa,2010,4444000
-Africa,2015,4414000
-Asia,1990,4170000
-Asia,2000,2684000
-Asia,2010,2925000
-Asia,2015,2235000
-Europe,1990,88000
-Europe,2000,92000
-Europe,2010,201000
-Europe,2015,69000
-Oceania,1990,655000
-Oceania,2000,662000
-Oceania,2010,458000
-Oceania,2015,42000
-South America,1990,5837000
-South America,2000,6667000
-South America,2010,3354000
-South America,2015,2953000
-World,1990,15818000
-World,2000,15117000
-World,2010,11801000
-World,2015,10150000
+'Paises','Ano','Desmatamento'
+'Africa','1990','4096000'
+'Africa','2000','4314000'
+'Africa','2010','4444000'
+'Africa','2015','4414000'
+'Asia','1990','4170000'
+'Asia','2000','2684000'
+'Asia','2010','2925000'
+'Asia','2015','2235000'
+'Europe','1990','88000'
+'Europe','2000','92000'
+'Europe','2010','201000'
+'Europe','2015','69000'
+'Oceania','1990','655000'
+'Oceania','2000','662000'
+'Oceania','2010','458000'
+'Oceania','2015','42000'
+'South America','1990','5837000'
+'South America','2000','6667000'
+'South America','2010','3354000'
+'South America','2015','2953000'
+'World','1990','15818000'
+'World','2000','15117000'
+'World','2010','11801000'
+'World','2015','10150000'
